@@ -1,0 +1,5 @@
+{
+  "name": "Flixlytics",
+  "description": "An advanced movie industry data analysis platform powered by Gemini AI, tracking global box office, audience trends, and predictive performance insights.",
+  "requestFramePermissions": []
+}
